@@ -1,0 +1,5 @@
+two type of the funtions 
+1 built in func
+2 user define function
+
+a, b, c = map(int, input("Enter three numbers: ").split()) #ishelp as to find the gretest no. using the map ,split 
