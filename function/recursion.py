@@ -32,3 +32,5 @@ temp = int(input("enter the tempreature = "))
 unit = input("enter the unit (c/f) = ")
 conversion(temp,unit)
 #overview of the program is that it takes the temperature value and unit as input from the user and then converts the temperature to the other unit and returns the value. and then it prints the converted value in the main program. also it uses the f-string to print the converted value in a formatted way.
+
+

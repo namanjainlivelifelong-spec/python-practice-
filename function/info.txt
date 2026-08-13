@@ -3,3 +3,7 @@ two type of the funtions
 2 user define function
 
 a, b, c = map(int, input("Enter three numbers: ").split()) #ishelp as to find the gretest no. using the map ,split 
+
+
+
+# "end ="  help karta hai ki print function ke baad new line na aaye aur uske badle me jo bhi humne end me diya hai vo print ho. by default end = "\n" hota hai jo ki new line ka kaam karta hai. agar hum end = " " karte hai to print function ke baad space aayega. agar hum end = "" karte hai to print function ke baad kuch bhi nahi aayega. agar hum end = "\t" karte hai to print function ke baad tab space aayega. agar hum end = "\r" karte hai to print function ke baad cursor ko line ke starting me le jaata hai. agar hum end = "\b" karte hai to print function ke baad cursor ko ek character peeche le jaata hai. agar hum end = "\f" karte hai to print function ke baad cursor ko next page me le jaata hai. agar hum end = "\v" karte hai to print function ke baad cursor ko next line me le jaata hai. agar hum end = "\a" karte hai to print function ke baad ek beep sound aayega. agar hum end = "\0" karte hai to print function ke baad kuch bhi nahi aayega. agar hum end = "\xhh" karte hai to print function ke baad cursor ko hh position me le jaata hai. agar hum end = "\ooo" karte hai to print function ke baad cursor ko ooo position me le jaata hai. agar hum end = "\uHHHH" karte hai to print function ke baad cursor ko HHHH position me le jaata hai. agar hum end = "\UHHHHHHHH" karte hai to print function ke baad cursor ko HHHHHHHH position me le jaata hai. 
